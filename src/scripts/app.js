@@ -1237,7 +1237,7 @@ class OdysseyApp {
               <!-- KPI Card 2: The Commander -->
               <div class="legion-kpi-card commander-card has-photo">
                 <div class="card-photo-side">
-                  <img src="/images/commander.jpg" alt="Jyoti Ranjan Rout" class="vanguard-photo">
+                  <img src="https://ik.imagekit.io/61anvkcju/Odyssey/WhatsApp%20Image%202026-09-17%20at%201.56.23%20PM.jpeg" alt="Jyoti Ranjan Rout" class="vanguard-photo">
                 </div>
                 <div class="card-text-side">
                   <h2 class="legion-card-title">The Commander</h2>
