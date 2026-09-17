@@ -1254,7 +1254,7 @@ class OdysseyApp {
                 <div class="card-text-side">
                   <h2 class="legion-card-title">The Sovereign Queen</h2>
                   <div class="legion-name">Suhasini Choudhury</div>
-                  <div class="legion-role">The Faculty Incharge</div>
+                  <div class="legion-role">Co-Convenor</div>
                 </div>
               </div>
             </div>
