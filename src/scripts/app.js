@@ -762,7 +762,7 @@ class OdysseyApp {
 
                 <article class="contact-card">
                   <div class="contact-card-badge">Event Coordinator</div>
-                  <h3 class="contact-name">Bijayalaxmi Swain</h3>
+                  <h3 class="contact-name">Bijaylaxmi Swain</h3>
                   <p class="contact-role">Event Coordinator</p>
                   <a class="contact-phone" href="tel:+919438007678">
                     <svg class="contact-phone-icon" viewBox="0 0 24 24" width="15" height="15" fill="currentColor">
@@ -1054,7 +1054,7 @@ class OdysseyApp {
                   <div class="timeline-content">
                     <div class="timeline-header">
                       <h3 class="timeline-title">The Call to Quest</h3>
-                      <span class="timeline-date">16th Sept 2026</span>
+                      <span class="timeline-date">17th Sept 2026</span>
                     </div>
                     <p class="timeline-desc">The call has been made—step forward, embrace the challenge, and begin your journey to innovation.</p>
                   </div>
