@@ -720,7 +720,7 @@ class OdysseyApp {
                 </div>
               </a>
 
-              <a href="https://falconclub.xyz/" target="_blank" class="aboutus-kpi-card kpi-card-2" id="kpi-card-2" title="Hephaestus Forge - FALCON CLUB">
+              <a href="#" target="_blank" class="aboutus-kpi-card kpi-card-2" id="kpi-card-2" title="Hephaestus Forge - FALCON CLUB">
                 <div class="kpi-card-bg-layer" style="background-image: url('/images/falcon.jpeg');"></div>
                 <div class="kpi-card-overlay"></div>
                 <div class="kpi-card-content">
