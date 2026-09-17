@@ -1225,7 +1225,7 @@ class OdysseyApp {
               <!-- KPI Card 1: The High King -->
               <div class="legion-kpi-card high-king-card has-photo">
                 <div class="card-photo-side">
-                  <img src="https://bcetodisha.ac.in/assets/img/chairman_photo.png" alt="Manmath Biswal" class="vanguard-photo">
+                  <img src="https://ik.imagekit.io/61anvkcju/Odyssey/WhatsApp%20Image%202026-09-17%20at%201.58.59%20PM.jpeg" alt="Manmath Biswal" class="vanguard-photo">
                 </div>
                 <div class="card-text-side">
                   <h2 class="legion-card-title">The High King</h2>
